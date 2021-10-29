@@ -1,4 +1,4 @@
-# Lyrics generator
+# Longest
 
 ## Scripts to run the project
 
