@@ -5,7 +5,6 @@ const getAllIncreasingSeqs = (numbers: number[]): number[][] => {
     let max: number;
     let seq: number[] = [];
     const currentArr = numbers.slice(numbers.length - round);
-    console.log(currentArr);
     currentArr.forEach(num => {
       if (max === undefined) {
         max = num;
